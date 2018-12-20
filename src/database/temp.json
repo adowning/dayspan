@@ -1,0 +1,53 @@
+{
+  "properties": {
+    "employeeId": {
+      "type": "string",
+      "primary": true
+    },
+    "humanityId": {
+      "type": "number"
+    },
+    "name": {
+      "type": "object",
+      "properties": {
+        "first": {
+          "type": "string"
+        },
+        "middle": {
+          "type": "string"
+        },
+        "last": {
+          "type": "string"
+        }
+      }
+    },
+    "imageUrl": {
+      "type": "string"
+    }
+  },
+  "email": {
+    "type": "string"
+  },
+  "birthday": {
+    "type": "string"
+  },
+  "phone": {
+    "type": "string"
+  },
+  "custom": {
+    "type": "array",
+    "maxItems": 5,
+    "uniqueItems": true,
+    "item": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "value": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}

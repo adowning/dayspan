@@ -1,0 +1,14 @@
+{
+  "apikey": "AEy0wE0AwFlV9Kn2At_S5U3x6-ZkZGTrbyDK3dguQcWv",
+  "clientId": "86a2d270-1973-4228-a80f-5b914f8905f1",
+  "iam_apikey_description": "Auto generated apikey during resource-key operation for Instance - crn:v1:bluemix:public:appid:us-south:a/4212326a4a0d3d3d8c3317a7f12243cb:b4bd02b6-ce7c-4184-b5b8-5fa4287328fd::",
+  "iam_apikey_name": "auto-generated-apikey-86a2d270-1973-4228-a80f-5b914f8905f1",
+  "iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Manager",
+  "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/4212326a4a0d3d3d8c3317a7f12243cb::serviceid:ServiceId-5a1f7341-c5ee-48cd-abea-d35e8e8770e6",
+  "managementUrl": "https://appid-management.ng.bluemix.net/management/v4/b4bd02b6-ce7c-4184-b5b8-5fa4287328fd",
+  "oauthServerUrl": "https://appid-oauth.ng.bluemix.net/oauth/v3/b4bd02b6-ce7c-4184-b5b8-5fa4287328fd",
+  "profilesUrl": "https://appid-profiles.ng.bluemix.net",
+  "secret": "YzVkYWY1N2UtNjQyMC00NjFjLWIyZjMtYzM2OGIxZTcyOGE4",
+  "tenantId": "b4bd02b6-ce7c-4184-b5b8-5fa4287328fd",
+  "version": 3
+}

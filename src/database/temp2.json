@@ -1,0 +1,25 @@
+{
+  "employeeId": "1444045",
+  "humanityId": "1444045",
+  "name": {
+    "first": "test",
+    "middle": "e",
+    "last": "testy"
+  },
+  "imageUrl": "1444045",
+  "email": "test@gmail.com",
+  "birthday": "12/04/8088",
+  "phone": "9035440088",
+  "custom": [
+    {
+      "item": {
+        "name": {
+          "type": "string"
+        },
+        "value": {
+          "type": "string"
+        }
+      }
+    }
+  ]
+}
